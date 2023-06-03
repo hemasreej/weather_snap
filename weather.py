@@ -22,6 +22,6 @@ def get_weather(city):
     except urllib.error.URLError:
         print("Failed to fetch weather data.")
 
-if _name_ == "_main_":
+if __name__ == "_main_":
     city = input(str("Enter city:")) 
     get_weather(city)
