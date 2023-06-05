@@ -6,3 +6,6 @@ Error Handling: GitHub Copilot provided suggestions for handling potential error
 By incorporating these suggestions, the code demonstrates how to make an API request to OpenWeatherMap, parse the JSON response, and handle errors using the urllib library.
 output would be :
 
+![image](https://github.com/hemasreej/weather_snap/assets/92966088/15b73663-91ca-4ba9-b788-7100d6f4c137)
+![WhatsApp Image 2023-06-04 at 15 04 39](https://github.com/hemasreej/weather_snap/assets/92966088/61048c1e-58b5-4e80-a7a2-fc578cf76cfb)
+
